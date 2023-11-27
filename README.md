@@ -1,4 +1,4 @@
-# provas-univesp-t23
-univesp t23 leaked exams **(for study purposes only)**
+# provas-univesp
+univesp leaked exams **(for study purposes only)**
 
-provas vazadas da univesp t23 **(apenas para fins de estudo)**
+provas vazadas da univesp **(apenas para fins de estudo)**
