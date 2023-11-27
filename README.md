@@ -5,7 +5,7 @@ leaked exams for the computing course at univesp **(for study purposes only)**
 :brazil: provas do curso de computação vazadas da univesp **(apenas para fins de estudo)**
 
 
-## :uk: how this repository works
+## how this repository works :uk:
 
 Description of how the folder structure of this repository is organized:
 
@@ -25,7 +25,7 @@ Description of how the folder structure of this repository is organized:
     └── ...                             # other classes by year
 
 
-## :brazil: como este repositório funciona
+## como este repositório funciona :brazil:
 
 Descrição sobre como a estrutura de pastas deste repositório está organizada:
 
